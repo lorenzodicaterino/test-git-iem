@@ -1,4 +1,4 @@
-#Comandi GIT
+# Comandi GIT
 
 - **git init**: Inizializza una nuova repostory GIT
 - **git add**: Aggiunge tutti i file della cartella selezionata alla working tree
